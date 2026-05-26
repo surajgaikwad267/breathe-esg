@@ -1,0 +1,6 @@
+meter_id,facility_name,billing_period_start,billing_period_end,consumption_kwh,demand_kw,tariff_code,total_cost
+MTR-001,Head Office,2024-01-18,2024-02-17,15000,45.2,COMM-A,125000
+MTR-002,Warehouse 1,2024-01-18,2024-02-17,8500,28.1,COMM-B,72000
+MTR-003,Factory Floor,2024-01-18,2024-02-17,45000,120.5,IND-A,380000
+MTR-001,Head Office,2024-02-18,2024-03-17,14200,43.8,COMM-A,118000
+MTR-002,Warehouse 1,2024-02-18,2024-03-17,9100,29.4,COMM-B,77000

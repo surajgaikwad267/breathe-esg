@@ -1,0 +1,7 @@
+trip_id,employee_id,travel_date,origin,destination,transport_mode,distance_km,hotel_nights,hotel_city
+TR-001,EMP-101,2024-01-05,DEL,BOM,flight,0,0,NA
+TR-002,EMP-102,2024-01-08,BLR,DEL,flight,0,0,NA
+TR-003,EMP-101,2024-01-10,NA,NA,hotel,0,3,Mumbai
+TR-004,EMP-103,2024-01-12,NA,NA,car,45,0,NA
+TR-005,EMP-104,2024-01-15,BOM,LHR,flight,0,0,NA
+TR-006,EMP-102,2024-01-18,NA,NA,car,120,0,NA
