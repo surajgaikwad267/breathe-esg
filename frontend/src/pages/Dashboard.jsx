@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
 
-const API = 'http://127.0.0.1:8000/api'
+const API = 'https://surajgaikwad219.pythonanywhere.com/api'
 
 function StatCard({ label, value, color, bg, icon }) {
   return (

@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import axios from 'axios'
 
-const API = 'http://127.0.0.1:8000/api'
+const API = 'https://surajgaikwad219.pythonanywhere.com/api'
 
 const scopeColors = {
   '1': 'bg-red-100 text-red-700',

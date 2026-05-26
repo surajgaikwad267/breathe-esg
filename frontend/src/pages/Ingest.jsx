@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import axios from 'axios'
 
-const API = 'http://127.0.0.1:8000/api'
+const API = 'https://surajgaikwad219.pythonanywhere.com/api'
 
 function UploadCard({ title, subtitle, endpoint, color, icon, columns }) {
   const [file, setFile] = useState(null)
